@@ -1,0 +1,12 @@
+{
+  "name": "Database",
+  "displayName": "Database",
+  "expo": {
+    "name": "Database",
+    "slug": "Database",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
